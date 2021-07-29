@@ -1,2 +1,2 @@
 # DeScholar-mobile-app
-A mobile where you can find our mobile applucation
+A mobile app where you can access our application
